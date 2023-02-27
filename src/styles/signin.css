@@ -1,0 +1,55 @@
+.login-subtitle{
+    font-size: 38px;
+line-height: 51px;
+color: #FFFFFF;
+}
+.login-subtitle2 {
+    font-family: "Urbanist";
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 28px;
+color: #939393;
+}
+.gx-button
+{
+    border-radius: 8px;
+    font-family: "Urbanist";
+font-style: normal;
+/* font-weight: bold; */
+font-size: 21px;
+line-height: 25px;
+text-align: center;
+}
+.forgot-password-text
+{
+font-family: "Urbanist";
+font-style: normal;
+font-weight: bold;
+font-size: 28px;
+line-height: 34px;
+}
+.forgot-password-subText
+{
+font-family: "Urbanist";
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 19px;
+
+/* color: #939393; */
+
+}
+.gx-signup-form-forgot, .text-black {
+    color: black;
+}
+
+@media (max-width: 567px) {
+
+    .login-subtitle {
+        font-size: 24px;
+        line-height: 32px;
+        color: #FFFFFF;
+        padding-top: 20px;
+    }
+}

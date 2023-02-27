@@ -1,0 +1,15 @@
+
+.active {
+background-color: tomato !important;
+color: rgb(0, 0, 0) !important;
+}
+
+.d-flex {
+    display: flex;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.ant-modal-footer{
+padding: 30px 20px !important;
+}
